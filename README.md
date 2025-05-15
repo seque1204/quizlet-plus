@@ -77,4 +77,4 @@ This project was built as a way to:
 
 ## 📬 Contact
 
-Feel free to reach out for improvements or feature suggestions via [GitHub Issues](../../issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/josesequeira).
+Feel free to reach out for improvements or feature suggestions via [GitHub Issues](../../issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/josequeira).
